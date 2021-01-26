@@ -7,8 +7,8 @@ description: # a longer description for your Learning Lab course, displayed on t
 # This will be used when the repository is crated for each individual learner
 
 template:
-  name: lab-template-vue-cli
-  repo: k-miyake/lab-template-vue-cli
+  name: vue-cli
+  repo: lab-template-vue-cli
 
 # `before` block
 # Actions to take place after the learner registers, but before they start interacting with their repo
